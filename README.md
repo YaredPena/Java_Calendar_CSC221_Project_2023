@@ -2,4 +2,4 @@
 Calendar made using the Eclipse IDE and Java.
 
 
-Developed by Charith Jayasekerage, Omar Dekureh and Yared Pena
+Developed by Charith Jayasekerage, Omar Dukureh and Yared Pena
